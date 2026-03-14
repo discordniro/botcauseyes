@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "nuke",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "online",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "pvptrainingonhell.aternos.me",
+    "port": 48068,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "nuking",
+        "scanning for hacks",
+        "nuking your house"
       ]
     },
     "chat-log": true,
